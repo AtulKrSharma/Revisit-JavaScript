@@ -1,9 +1,0 @@
-{
-  "id": 1,
-  "title": "This is the title",
-  "body": "This is the body",
-  "address": {
-    "Street": 1713,
-    "isCircle": true
-  }
-}
