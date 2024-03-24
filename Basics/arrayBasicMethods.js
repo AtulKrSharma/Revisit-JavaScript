@@ -1,4 +1,4 @@
-//Array Manipulation:-
+//Chapter of Array Manipulation:-
 
 //create array via literal
 const myNumberArray = [1, 6, 8, 9, 45];
